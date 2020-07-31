@@ -1,3 +1,4 @@
+ // Ahora estoy probando a ver como funciona esto de escribir arduino.
 #define ledPin_1_PIN LED_BUILTIN
 #include <TimerOne.h>
 #include "TM1637.h"
